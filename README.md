@@ -13,7 +13,7 @@ Estudante de **Ciência da Computação** dedicado ao desenvolvimento backend co
 ## DESENVOLVENDO AGORA 🐌
 🔭 **Desenvolvendo** projetos de cursos e pessoais em Java  
  🎒 **Aprofundando** conhecimentos em POO, Estruturas de Dados e Algoritmos <br> 
-📚 **Estudando** SQL, SpringBoot e Angular para aprondar meus conhecimentos<br>
+📚 **Estudando** SQL, SpringBoot e Angular para apronfundar meus conhecimentos<br>
 💡 **Explorando** conceitos de algoritmos e **linguagem C#** <br>
  📖 **Lendo** O senhor das Moscas <br>
  🕹️ **Curto** Jogos/RPG<br>
