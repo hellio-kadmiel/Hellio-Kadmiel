@@ -1,7 +1,11 @@
 # 💻 Héllio Kadmiel Bonfim  ![Image](https://github.com/user-attachments/assets/71316a17-5b56-4a42-be22-9387a0176eae)
+<div align="center">
   
-# █▓▒▒░░░Olá Devs░░░▒▒▓█
-### Estudante de Ciência da Computação | Desenvolvedor Java
+# █▓▒▒░░░Olá, Devs░░░▒▒▓█
+
+</div>
+
+### Estudante de Ciência da Computação | Desenvolvedor Java ☕
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ <br>
 Estudante de **Ciência da Computação** dedicado ao desenvolvimento backend com **Java**. <br> Focado em construir bases sólidas de programação e sempre inturmado com novas tecnologias. <br>
 🎒 Cursando **Ciência da Computação 6° Semestre**  
@@ -10,6 +14,7 @@ Estudante de **Ciência da Computação** dedicado ao desenvolvimento backend co
 🚩 **Olinda - PE** <BR>
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
+     
 ## DESENVOLVENDO AGORA 🐌
 🔭 **Desenvolvendo** projetos de cursos e pessoais em Java  
  🎒 **Aprofundando** conhecimentos em POO, Estruturas de Dados e Algoritmos <br> 
