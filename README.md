@@ -14,6 +14,8 @@ Estudante de **Ciência da Computação** dedicado ao desenvolvimento backend co
 🚩 **Olinda - PE** <BR>
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
+
+
      
 ## DESENVOLVENDO AGORA 🐌
 🔭 **Desenvolvendo** projetos de cursos e pessoais em Java  
@@ -43,8 +45,7 @@ Estudante de **Ciência da Computação** dedicado ao desenvolvimento backend co
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
 
----
- # Contato  
+## CONECTE-SE COMIGO
           
     
 
