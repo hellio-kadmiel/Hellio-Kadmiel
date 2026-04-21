@@ -8,7 +8,7 @@
 ### Estudante de Ciência da Computação | Desenvolvedor Java ☕
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ <br>
 Estudante de **Ciência da Computação** dedicado ao desenvolvimento backend com **Java**. <br> Focado em construir bases sólidas de programação e sempre inturmado com novas tecnologias. <br>
-🎒 Cursando **Ciência da Computação 7° Semestre**  
+🎒 Cursando **Ciência da Computação 8° Semestre**  
 💻 Desenvolvendo com **Java**  
 🚀 Futuro objetivo: Aprender **Spring Boot**, **Angular**, **SQL** e **Docker**  
 🚩 **Olinda - PE** <BR>
@@ -22,7 +22,6 @@ Estudante de **Ciência da Computação** dedicado ao desenvolvimento backend co
  🎒 **Aprofundando** conhecimentos em POO, Estruturas de Dados e Algoritmos <br> 
 📚 **Estudando** SQL, SpringBoot e Angular para apronfundar meus conhecimentos<br>
 💡 **Explorando** conceitos de algoritmos e **linguagem C#** <br>
- 📖 **Lendo** O senhor das Moscas <br>
  🕹️ **Curto** Jogos/RPG<br>
   🧠 **Futuro projeto:** criar algum programa para jogos
 
